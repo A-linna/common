@@ -1,4 +1,4 @@
-package com.wingliberty.common.dto;
+package com.wingliberty.common.dto.response;
 
 /**
  * 基础响应给前端对象

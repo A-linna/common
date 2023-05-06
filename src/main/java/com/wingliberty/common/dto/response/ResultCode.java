@@ -1,4 +1,4 @@
-package com.wingliberty.common.dto;
+package com.wingliberty.common.dto.response;
 
 /**
  * @author aiLun
